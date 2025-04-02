@@ -1,0 +1,25 @@
+04/27/23 01:15:49 PM: INFO: Information
+04/27/23 01:16:04 PM: INFO: Information
+04/27/23 01:16:06 PM: INFO: ====== WebDriver manager ======
+04/27/23 01:16:07 PM: INFO: Current google-chrome version is 112.0.5615
+04/27/23 01:16:07 PM: INFO: Get LATEST chromedriver version for 112.0.5615 google-chrome
+04/27/23 01:16:08 PM: INFO: There is no [win32] chromedriver for browser 112.0.5615 in cache
+04/27/23 01:16:08 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+04/27/23 01:16:09 PM: INFO: Driver has been saved in cache [C:\Users\taranums\.wdm\drivers\chromedriver\win32\112.0.5615.49]
+04/27/23 01:20:11 PM: INFO: Information
+04/27/23 01:20:13 PM: INFO: ====== WebDriver manager ======
+04/27/23 01:20:14 PM: INFO: Current google-chrome version is 112.0.5615
+04/27/23 01:20:14 PM: INFO: Get LATEST chromedriver version for 112.0.5615 google-chrome
+04/27/23 01:20:14 PM: INFO: Driver [C:\Users\taranums\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/23 01:22:03 PM: INFO: Information
+04/27/23 01:22:06 PM: INFO: ====== WebDriver manager ======
+04/27/23 01:22:06 PM: INFO: Current google-chrome version is 112.0.5615
+04/27/23 01:22:06 PM: INFO: Get LATEST chromedriver version for 112.0.5615 google-chrome
+04/27/23 01:22:07 PM: INFO: Driver [C:\Users\taranums\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/23 01:24:04 PM: INFO: Information
+04/27/23 01:24:06 PM: INFO: ====== WebDriver manager ======
+04/27/23 01:24:07 PM: INFO: Current google-chrome version is 112.0.5615
+04/27/23 01:24:07 PM: INFO: Get LATEST chromedriver version for 112.0.5615 google-chrome
+04/27/23 01:24:07 PM: INFO: Driver [C:\Users\taranums\.wdm\drivers\chromedriver\win32\112.0.5615.49\chromedriver.exe] found in cache
+04/27/23 01:24:16 PM: INFO: ***********  Entering Username **********************
+04/27/23 01:24:20 PM: INFO: ***********  Entering Username **********************
