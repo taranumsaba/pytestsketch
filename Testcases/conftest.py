@@ -24,10 +24,6 @@ def init_driver(request):
             command_executor='http://selenium-hub:4444/wd/hub',
             options=options
         )
-
-        # web_driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-
-        # web_driver = WebDriver(options=options)
         web_driver.maximize_window()
 
 
