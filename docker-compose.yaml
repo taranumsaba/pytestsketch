@@ -87,3 +87,9 @@ services:
 
 networks:
   selenium-grid:
+
+
+# Steps to run
+# docker-compose up -d
+# docker build -t build-image-name .
+# docker run --network <networkname>  <imagename>
